@@ -1,5 +1,5 @@
-User_Input = input("What is the Capital of Sweden?")
-if User_Input == "Stockholm" or "stockholm":
+User_Input = input("What is the Capital of Turkey?")
+if User_Input == "Ankara" or "ankara":
     print("Yay! You got it right!")
 else:
     print("You didn't get it :( Better luck next time!")
